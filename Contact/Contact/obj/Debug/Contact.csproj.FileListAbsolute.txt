@@ -1,0 +1,14 @@
+D:\project\Contact\Contact\bin\Debug\Contact.exe.config
+D:\project\Contact\Contact\bin\Debug\Contact.exe
+D:\project\Contact\Contact\bin\Debug\Contact.pdb
+D:\project\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+D:\project\Contact\Contact\obj\Debug\Contact.Form1.resources
+D:\project\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+D:\project\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+D:\project\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+D:\project\Contact\Contact\obj\Debug\Contact.exe
+D:\project\Contact\Contact\obj\Debug\Contact.pdb
+D:\project\Contact\Contact\bin\Debug\MySql.Data.dll
+D:\project\Contact\Contact\obj\Debug\Contact.user.resources
+D:\project\Contact\Contact\obj\Debug\Contact.csproj.CopyComplete
+D:\project\Contact\Contact\obj\Debug\Contact.Admin.resources
