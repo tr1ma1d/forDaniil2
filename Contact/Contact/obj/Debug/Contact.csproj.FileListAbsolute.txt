@@ -12,3 +12,4 @@ D:\project\Contact\Contact\bin\Debug\MySql.Data.dll
 D:\project\Contact\Contact\obj\Debug\Contact.user.resources
 D:\project\Contact\Contact\obj\Debug\Contact.csproj.CopyComplete
 D:\project\Contact\Contact\obj\Debug\Contact.Admin.resources
+D:\project\Contact\Contact\obj\Debug\Contact.register_form.resources

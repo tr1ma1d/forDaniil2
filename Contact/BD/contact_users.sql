@@ -16,30 +16,28 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `contact`
+-- Table structure for table `users`
 --
 
-DROP TABLE IF EXISTS `contact`;
+DROP TABLE IF EXISTS `users`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `contact` (
-  `idContact` int NOT NULL AUTO_INCREMENT,
-  `Name` varchar(45) NOT NULL,
-  `Company` varchar(45) NOT NULL,
-  `JobTitle` varchar(45) NOT NULL,
-  `PhoneNumber` varchar(45) NOT NULL,
-  PRIMARY KEY (`idContact`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `users` (
+  `idusers` int NOT NULL AUTO_INCREMENT,
+  `username` varchar(45) NOT NULL,
+  `password` varchar(45) NOT NULL,
+  PRIMARY KEY (`idusers`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `contact`
+-- Dumping data for table `users`
 --
 
-LOCK TABLES `contact` WRITE;
-/*!40000 ALTER TABLE `contact` DISABLE KEYS */;
-INSERT INTO `contact` VALUES (2,'Daniil','Google','Ceo','+7(917)7185224'),(5,'Nikita23','Tinkoff','CEO','+7(917)7185223');
-/*!40000 ALTER TABLE `contact` ENABLE KEYS */;
+LOCK TABLES `users` WRITE;
+/*!40000 ALTER TABLE `users` DISABLE KEYS */;
+INSERT INTO `users` VALUES (1,'rrrr','rrrr'),(2,'rrrr2','rrrr');
+/*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
